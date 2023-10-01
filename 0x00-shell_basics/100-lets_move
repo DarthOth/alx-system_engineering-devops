@@ -1,2 +1,2 @@
 #!/bin/bash
-ls | grep "^[A-Z]" | mv $PWD /tmp/u
+ls -la | grep "^[A-Z]" | mv $PWD /tmp/u
